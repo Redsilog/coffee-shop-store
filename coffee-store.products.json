@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "671923b68a71b83116dbb830"
+  },
+  "name": "Blanca",
+  "description": "less acidic",
+  "price": {
+    "$numberLong": "25"
+  },
+  "imageUrl": "blanca.jpg"
+},
+{
+  "_id": {
+    "$oid": "6719258c8a71b83116dbb834"
+  },
+  "name": "Barako",
+  "description": "Cafe Barako",
+  "price": {
+    "$numberLong": "15"
+  },
+  "imageUrl": "barako.jpg"
+},
+{
+  "_id": {
+    "$oid": "671925af8a71b83116dbb835"
+  },
+  "name": "Kopiko",
+  "description": "Ang sarap ng Kopiko",
+  "price": {
+    "$numberLong": "20"
+  },
+  "imageUrl": "kopiko.jpg"
+}]
